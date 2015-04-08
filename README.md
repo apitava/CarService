@@ -1,2 +1,0 @@
-# CarService
-CarService application
